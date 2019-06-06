@@ -1,39 +1,72 @@
 {
   "animals": [
   {
-  "id": "tbc by David",
+  "id": 1,
   "name" : "Grumpy",
   "type" : "goat",
-  "photo" : "goat-1.jpg",
+  "photo" : "/images/goat-1.jpg",
   "age" : "adult", 
   "available" : "true"
   },
 
   {
-  "id": "tbc by David",
+  "id": 2,
   "name" : "Devil",
   "type" : "goat",
-  "photo" : "goat-2.jpg",
+  "photo" : "/images/goat-2.jpg",
   "age" : "adult", 
   "available" : "true"
   },
 
   {
-  "id": "tbc by David",
+  "id": 3,
   "name" : "Coolio",
   "type" : "sheep",
-  "photo" : "sheep-1.jpg",
+  "photo" : "/images/sheep-1.jpg",
   "age" : "juvenile", 
   "available" : "true"
   },
 
   {
-"id": "tbc by David",
+  "id": 4,
   "name" : "Robaaahto",
   "type" : "sheep",
-  "photo" : "sheep-2.jpg",
+  "photo" : "/images/sheep-2.jpg",
   "age" : "adult", 
+  "available" : "true"
+  },
+    {
+  "id": 5,
+  "name" : "Chipster",
+  "type" : "chicken",
+  "photo" : "/images/chicken-2.jpg",
+  "age" : "young", 
+  "available" : "true"
+  },
+    {
+  "id": 6,
+  "name" : "Mrs Cluck",
+  "type" : "chicken",
+  "photo" : "/images/chicken-2.jpg",
+  "age" : "adult", 
+  "available" : "true"
+  },
+    {
+  "id": 7,
+  "name" : "xxx",
+  "type" : "cow",
+  "photo" : "/images/cow-1.jpg",
+  "age" : "xxx", 
+  "available" : "true"
+  }
+      {
+  "id": 8,
+  "name" : "xxx",
+  "type" : "cow",
+  "photo" : "/images/cow-2.jpg",
+  "age" : "xxx", 
   "available" : "true"
   }
 
-  ]}
+]
+}
